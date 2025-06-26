@@ -11,6 +11,7 @@ example project for cv: segmentation of Ecommerce.
 
 ## 📁 קישורים לקבצי הפרויקט
 
+- **מערך הנתונים באתר kaggle** - [לחץ כאן לפתיחה בגוגל דרייב](https://www.kaggle.com/datasets/rishikumarrajvansh/marketing-insights-for-e-commerce-company/data?select=CustomersData.xlsx)
 - 📊 **ניתוח באקסל** – [לחץ כאן לפתיחה בגוגל דרייב](https://docs.google.com/spreadsheets/d/1_25qpDove7Mau2ipMOwrxj8GcSZGUol7/edit?usp=sharing&ouid=117796871804916139177&rtpof=true&sd=true)
 - 📈 **דוחות Power BI** – [לחץ כאן לפתיחה בגוגל דרייב](https://drive.google.com/file/d/1mwEexXpgpRVnQ7XW8dub4fVOnr7T2hdW/view?usp=sharing)
 - 📝 **מסקנות והמלצות** – [לחץ כאן לצפייה במסמך Word](https://docs.google.com/document/d/1A3D3TEGdmbpsmRal4N3xrmUhaiHehYnR/edit?usp=sharing&ouid=117796871804916139177&rtpof=true&sd=true)
